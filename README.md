@@ -14,5 +14,5 @@ I'm currently trying to make a [2D golf](https://github.com/12944qwerty/golf) ga
 - [qwerty12944qwerty@gmail.com](mailto:qwerty12944qwerty@gmail.com)
 - Discord - 12944qwerty#9317
 
-[![12944qwerty's github stats](https://github-readme-stats.vercel.app/api?username=12944qwerty)](https://github.com/anuraghazra/github-readme-stats)
-[![12944qwerty's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=12944qwerty)](https://github.com/anuraghazra/github-readme-stats)
+[![12944qwerty's github stats](https://github-readme-stats.vercel.app/api?username=12944qwerty&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![12944qwerty's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=12944qwerty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
