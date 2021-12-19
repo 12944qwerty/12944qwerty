@@ -1,11 +1,11 @@
 # Hi there 👋 I'm [12944qwerty](https://12944qwerty.github.io)
 
 ### What I know
-- Python <code><img alt="Python" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-- JS <code><img alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-- Java <code><img alt="Java" height="26px" src="https://i.ibb.co/YkpBrRd/image.png"></code>
-- HTML <code><img alt="HTML" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-- CSS <code><img alt="CSS" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+- Python
+- JS
+- Java
+- HTML
+- CSS
 - Dabbling in C++ and C for Robotics :D
 
 ### Find me
