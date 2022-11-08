@@ -6,6 +6,7 @@
 - Java
 - HTML
 - CSS
+- Swift
 - Dabbling in C++ and C for Robotics :D
 
 ### Find me
