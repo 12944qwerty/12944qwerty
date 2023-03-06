@@ -13,6 +13,7 @@
 See the projects I'm working on
  - [Replugged](https://replugged.dev)
  - [Arcade](https://12944qwerty.github.io/arcade)
+ - [Tagscript Blockly](https://12944qwerty.github.io/TagScript-Blocks/)
 
 ### Find me
 - [Scratch](https://scratch.mit.edu/users/12944qwerty) or [Scratch Wiki](https://en.scratch-wiki.info/wiki/User_talk:12944qwerty)
