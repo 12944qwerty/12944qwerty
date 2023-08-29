@@ -11,7 +11,7 @@
 
 ### Projects
 See the projects I'm working on
- - [Replugged](https://replugged.dev)
+ - [Replugged](https://replugged.dev) and [Replugged Plugins](https://github.com/qwerty-mods)
  - [Arcade](https://12944qwerty.github.io/arcade)
  - [Tagscript Blockly](https://12944qwerty.github.io/TagScript-Blocks/)
 
